@@ -1143,9 +1143,3 @@ function GoogleBtn() {
     </button>
   )
 }
-
-const DEFAULT_PROG = {
-  name:"", level:"a1", xp:0, streak:0,
-  lastActive:null, completed:[], srs:{},
-  onboarded:false, placementDone:false,
-}
