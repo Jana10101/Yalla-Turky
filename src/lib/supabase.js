@@ -1,6 +1,6 @@
 // ── Supabase client (keys baked in for Vercel deploy) ──────────────────────
-const SUPABASE_URL      = "https://pyfkeyonwlsznhjaicfu.supabase.co"
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB5ZmtleW9ud2xzem5oamFpY2Z1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMyNjg3NTUsImV4cCI6MjA4ODg0NDc1NX0.7uMOcFti0Do-N3feKAZ7EluMHkFjfX5_KjwDO5CFwqQ"
+const SUPABASE_URL      = "https://vxggtkzdsgtlurzhxucq.supabase.co"
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ4Z2d0a3pkc2d0bHVyemh4dWNxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMyNDAyNjUsImV4cCI6MjA4ODgxNjI2NX0.q7e4vyLpO_GU7_PjsNdkyraNGR5ZGgwX1tmOiR4LDMc"
 
 export const CONFIGURED = true
 
